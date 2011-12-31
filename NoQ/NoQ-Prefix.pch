@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NoQ' target in the 'NoQ' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
